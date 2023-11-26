@@ -1,9 +1,9 @@
 <h1 align="center">Hello there 👋, I'm Max Strandberg</h1>
 <h3 align="center">A passionate developer from Sweden.</h3>
 <h4 align="center">To me, coding is the perfect mix between creativity and logic.</h4>
-<img align="right" alt="homer" width="400" src="https://frinkiac.com/video/S07E07/1sWDwQK-dU86mV6tIq2KP5h4QUA=.gif">
+<img align="right" alt="homer" width="300" src="https://frinkiac.com/video/S07E07/1sWDwQK-dU86mV6tIq2KP5h4QUA=.gif">
 
-- 🔭 I’m currently working on [IMS - An Inventory Managment System for induviduals and businesses](https://github.com/MaaX59/ims)
+- 🔭 I’m currently working on [IMS - An Inventory Managment System](https://github.com/MaaX59/ims)
 
 - 🌱 I’m currently learning **React Native, mySQL**
 
