@@ -1,5 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Max Strandberg</h1>
 <h3 align="center">A passionate developer from Sweden.</h3>
+<h3 align="center">To me, coding is the perfect mix between creativity and logic.</h3>
 
 - 🔭 I’m currently working on [IMS - An Inventory Managment System for induviduals and businesses](https://github.com/MaaX59/ims)
 
