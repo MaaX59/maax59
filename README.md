@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Max Strandberg</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from Sweden.</h3>
 
-- 🔭 I’m currently working on [IMS](https://github.com/MaaX59/ims)
+- 🔭 I’m currently working on [IMS - An Inventory Managment System for induviduals and businesses](https://github.com/MaaX59/ims)
 
 - 🌱 I’m currently learning **React Native, mySQL**
 
